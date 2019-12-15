@@ -30,9 +30,13 @@ The page will reload if you make edits. You will also see any lint errors in the
 
 ## Tecnologies Used
 
-#### Axios
+#### react-icons
 
-> To make queries on external API's.
+> To easily use icons in the application.
+
+#### styled-components
+
+> To stylize my app as components.
 
 ## About Me
 
