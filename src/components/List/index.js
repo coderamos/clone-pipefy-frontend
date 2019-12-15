@@ -18,8 +18,8 @@ export default function List({ data }) {
       </header>
 
       <ul>
-        {data.cards.map(card => {
-          return <Card key={card.id} data={card} />;
+        {data.cards.map((card, index) => {
+          return <Card key={card.id} data={card} index={index} />;
         })}
       </ul>
     </Container>
