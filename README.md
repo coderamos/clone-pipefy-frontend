@@ -30,6 +30,10 @@ The page will reload if you make edits. You will also see any lint errors in the
 
 ## Tecnologies Used
 
+#### immer
+
+> To work with the react state as mutable objects.
+
 #### react-icons
 
 > To easily use icons in the application.
