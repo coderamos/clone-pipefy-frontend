@@ -6,8 +6,8 @@ export const Container = styled.div`
   border-radius: 4px;
   margin-bottom: 10px;
   padding: 15px;
-  /* box-shadow: 0 1px 4px 0 rgba(192, 208, 230, 0.8); */
-  border-top: 20px solid rgba(133, 106, 145, 0.4);
+  box-shadow: 0 1px 4px 0 rgba(40, 42, 54, 0.8);
+  border-top: 20px solid rgba(40, 42, 54, 0.4);
   cursor: grab;
 
   header {

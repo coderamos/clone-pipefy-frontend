@@ -11,7 +11,7 @@ export default function Card({ data }) {
         })}
       </header>
       <p>{data.content}</p>
-      <img src={data.user} alt="" />
+      {data.user && <img src={data.user} alt="" />}
     </Container>
   );
 }

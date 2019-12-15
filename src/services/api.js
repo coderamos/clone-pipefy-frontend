@@ -7,31 +7,31 @@ export function loadLists() {
         {
           id: 1,
           content: 'study Redux',
-          labels: ['#715'],
+          labels: ['#ff5555'],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         },
         {
           id: 2,
           content: 'clone Airbnb application',
-          labels: ['#715'],
+          labels: ['#ff5555'],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         },
         {
           id: 3,
           content: 'study Gastby',
-          labels: ['#715'],
+          labels: ['#ff5555'],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         },
         {
           id: 4,
           content: 'clone Uber application',
-          labels: ['#54e'],
+          labels: ['#6272a4'],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         },
         {
           id: 5,
           content: 'buy Xbox Series X',
-          labels: ['#54e'],
+          labels: ['#6272a4'],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         }
       ]
@@ -55,13 +55,13 @@ export function loadLists() {
         {
           id: 7,
           content: 'play video game',
-          labels: ['#715'],
+          labels: ['#ff5555'],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         },
         {
           id: 8,
           content: 'study MongoDB',
-          labels: ['#54e'],
+          labels: ['#6272a4'],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         },
         {
@@ -86,13 +86,13 @@ export function loadLists() {
         {
           id: 12,
           content: 'update LinkedIn',
-          labels: ['#54e'],
+          labels: ['#6272a4'],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         },
         {
           id: 13,
           content: 'study styled-components',
-          labels: ['#715'],
+          labels: ['#ff5555'],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         }
       ]
