@@ -1,101 +1,98 @@
 export function loadLists() {
   return [
     {
-      title: 'Tarefas',
+      title: 'tasks',
       creatable: true,
       cards: [
         {
           id: 1,
-          content: 'Estudar módulo 01 de NodeJS',
-          labels: ['#7159c1'],
+          content: 'study Redux',
+          labels: ['#715'],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         },
         {
           id: 2,
-          content:
-            'Criar vídeo para o Youtube ensinando a recriar a interface do Pipefy',
-          labels: ['#7159c1'],
+          content: 'clone Airbnb application',
+          labels: ['#715'],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         },
         {
           id: 3,
-          content: 'Estudar módulo 03 de React Native',
-          labels: ['#7159c1'],
+          content: 'study Gastby',
+          labels: ['#715'],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         },
         {
           id: 4,
-          content:
-            'Gravar Aula "NextJS: Utilizando server-side rendering com ReactJS"',
-          labels: ['#54e1f7'],
+          content: 'clone Uber application',
+          labels: ['#54e'],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         },
         {
           id: 5,
-          content: 'Gravar testes e deploy ReactJS',
-          labels: ['#54e1f7'],
+          content: 'buy Xbox Series X',
+          labels: ['#54e'],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         }
       ]
     },
     {
-      title: 'Fazendo',
+      title: 'in progress',
       creatable: false,
       cards: [
         {
           id: 6,
-          content: 'Recriando clone do Pipefy',
+          content: 'study ReactJs',
           labels: [],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         }
       ]
     },
     {
-      title: 'Pausado',
+      title: 'stopped',
       creatable: false,
       cards: [
         {
           id: 7,
-          content: 'Gravar sobre Geolocalização e mapas com React Native',
-          labels: ['#7159c1'],
+          content: 'play video game',
+          labels: ['#715'],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         },
         {
           id: 8,
-          content: 'Gravar testes e deploy ReactJS',
-          labels: ['#54e1f7'],
+          content: 'study MongoDB',
+          labels: ['#54e'],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         },
         {
           id: 9,
-          content: 'Ajustes na biblioteca unform',
+          content: 'clear GitHub',
           labels: [],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         }
       ]
     },
     {
-      title: 'Concluído',
+      title: 'done',
       creatable: false,
       done: true,
       cards: [
         {
           id: 10,
-          content: 'Gravar aula sobre deploy e CI com React Native',
+          content: 'clone Instagram application',
           labels: [],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         },
         {
           id: 12,
-          content: 'Gravar testes e deploy ReactJS',
-          labels: ['#54e1f7'],
+          content: 'update LinkedIn',
+          labels: ['#54e'],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         },
         {
           id: 13,
-          content:
-            'Gravar Aula "Internacionalização de aplicações Node.js, ReactJS e React Native"',
-          labels: ['#7159c1'],
+          content: 'study styled-components',
+          labels: ['#715'],
           user: 'https://avatars2.githubusercontent.com/u/38539443?v=4'
         }
       ]
