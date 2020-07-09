@@ -1,8 +1,8 @@
-# clone | CODEFY - FRONTEND
+# clone | PIPEFY - FRONTEND
 
 ## About This Project
 
-This project contains the entire frontend of the **[clone-codefy-frontend](https://github.com/coderamos/clone-codefy-frontend)** application.
+This project contains the entire frontend of the **[clone-pipefy-frontend](https://github.com/coderamos/clone-pipefy-frontend)** application.
 
 This project was create with [Create React App](https://facebook.github.io/create-react-app/). You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started). To learn React, check out the [React documentation](https://reactjs.org/).
 
